@@ -1,5 +1,7 @@
 ## 자바에서의 해시맵 사용예제
 
+<pre>
+<code>
 ```java
 
 import java.util.Arrays;
@@ -34,3 +36,5 @@ class Solution {
 }
 
 ```
+</code>
+</pre>
